@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="game_title">My Tic Tac Toe</string>
+    <string name="player_turn">
+        <![CDATA[
+    It\'s your turn <b>Player %d</b>
+        ]]></string>
+    <string name="first_player_turn">It\'s your turn <b>Player 1</b></string>
+    <string name="winner">Player %d won !</string>
+    <string name="tie">It\'s a tie !</string>
+    <string name="restartButton">Restart</string>
+</resources>
